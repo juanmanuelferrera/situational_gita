@@ -9,8 +9,9 @@ from pathlib import Path
 
 
 def get_all_themes():
-    """Manually defined list of all themes from the book"""
+    """Complete list of ALL situational topics from the book (110 total)"""
     return [
+        # === BY THEME SECTION (62 themes) ===
         "Achievements",
         "Ambition",
         "Anger",
@@ -70,7 +71,59 @@ def get_all_themes():
         "Teacher",
         "Teams",
         "Temptation",
-        "Uncontrolled mind"
+        "Uncontrolled mind",
+        "Vital Cycle",
+        "Work",
+
+        # === CHAPTER-SPECIFIC SITUATIONS (48 topics) ===
+        "Action and inaction",
+        "Advanced spiritualist is everyone's friend",
+        "After Krishna answered Arjuna's questions",
+        "Arjuna inquired from Krishna",
+        "Asat",
+        "Ashtanga yoga",
+        "Asking for forgiveness",
+        "Conditioned by happiness",
+        "Confusion and forgetfulness",
+        "Demotivated and losing hope",
+        "Destinations and rewards",
+        "Discriminating",
+        "Elevation beyond the gunas",
+        "Feeling shameful",
+        "Feeling shameful and losing hope",
+        "Fighting Demotivation",
+        "Fools and wise",
+        "Grief ignorance and knowledge",
+        "How to combat depression",
+        "How to manage anger",
+        "Intelligence and determination",
+        "Krishna is a nice boss",
+        "Liberation",
+        "Manifestations of the Supreme Lord",
+        "Most confidential knowledge",
+        "Om Tat Sat",
+        "Origin of anger",
+        "Overcoming illusion",
+        "Pridelessness",
+        "Right conduct in jail",
+        "Sacrifices and worship",
+        "Seek instruction when confused",
+        "Seeking peace",
+        "Surrender to the Supreme Lord",
+        "The Scape Plan",
+        "The best yogis",
+        "The branches of faith",
+        "The five factors of action",
+        "The lawyer in the heart",
+        "The most secret knowledge",
+        "The perfect renunciation",
+        "The special favor to a bhakta",
+        "The three gunas",
+        "The three kinds of happiness",
+        "The three types of material existence",
+        "Two birds on a tree",
+        "Value of transcendental knowledge",
+        "Words on death of a loved one",
     ]
 
 

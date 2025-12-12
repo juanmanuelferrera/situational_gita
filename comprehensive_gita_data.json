@@ -59,7 +59,57 @@
     "Teacher",
     "Teams",
     "Temptation",
-    "Uncontrolled mind"
+    "Uncontrolled mind",
+    "Vital Cycle",
+    "Work",
+    "Action and inaction",
+    "Advanced spiritualist is everyone's friend",
+    "After Krishna answered Arjuna's questions",
+    "Arjuna inquired from Krishna",
+    "Asat",
+    "Ashtanga yoga",
+    "Asking for forgiveness",
+    "Conditioned by happiness",
+    "Confusion and forgetfulness",
+    "Demotivated and losing hope",
+    "Destinations and rewards",
+    "Discriminating",
+    "Elevation beyond the gunas",
+    "Feeling shameful",
+    "Feeling shameful and losing hope",
+    "Fighting Demotivation",
+    "Fools and wise",
+    "Grief ignorance and knowledge",
+    "How to combat depression",
+    "How to manage anger",
+    "Intelligence and determination",
+    "Krishna is a nice boss",
+    "Liberation",
+    "Manifestations of the Supreme Lord",
+    "Most confidential knowledge",
+    "Om Tat Sat",
+    "Origin of anger",
+    "Overcoming illusion",
+    "Pridelessness",
+    "Right conduct in jail",
+    "Sacrifices and worship",
+    "Seek instruction when confused",
+    "Seeking peace",
+    "Surrender to the Supreme Lord",
+    "The Scape Plan",
+    "The best yogis",
+    "The branches of faith",
+    "The five factors of action",
+    "The lawyer in the heart",
+    "The most secret knowledge",
+    "The perfect renunciation",
+    "The special favor to a bhakta",
+    "The three gunas",
+    "The three kinds of happiness",
+    "The three types of material existence",
+    "Two birds on a tree",
+    "Value of transcendental knowledge",
+    "Words on death of a loved one"
   ],
   "chapters": {},
   "theme_content": {
@@ -360,6 +410,246 @@
     },
     "Uncontrolled mind": {
       "theme": "Uncontrolled mind",
+      "sections": [],
+      "full_text": ""
+    },
+    "Vital Cycle": {
+      "theme": "Vital Cycle",
+      "sections": [],
+      "full_text": ""
+    },
+    "Work": {
+      "theme": "Work",
+      "sections": [],
+      "full_text": ""
+    },
+    "Action and inaction": {
+      "theme": "Action and inaction",
+      "sections": [],
+      "full_text": ""
+    },
+    "Advanced spiritualist is everyone's friend": {
+      "theme": "Advanced spiritualist is everyone's friend",
+      "sections": [],
+      "full_text": ""
+    },
+    "After Krishna answered Arjuna's questions": {
+      "theme": "After Krishna answered Arjuna's questions",
+      "sections": [],
+      "full_text": ""
+    },
+    "Arjuna inquired from Krishna": {
+      "theme": "Arjuna inquired from Krishna",
+      "sections": [],
+      "full_text": ""
+    },
+    "Asat": {
+      "theme": "Asat",
+      "sections": [],
+      "full_text": ""
+    },
+    "Ashtanga yoga": {
+      "theme": "Ashtanga yoga",
+      "sections": [],
+      "full_text": ""
+    },
+    "Asking for forgiveness": {
+      "theme": "Asking for forgiveness",
+      "sections": [],
+      "full_text": ""
+    },
+    "Conditioned by happiness": {
+      "theme": "Conditioned by happiness",
+      "sections": [],
+      "full_text": ""
+    },
+    "Confusion and forgetfulness": {
+      "theme": "Confusion and forgetfulness",
+      "sections": [],
+      "full_text": ""
+    },
+    "Demotivated and losing hope": {
+      "theme": "Demotivated and losing hope",
+      "sections": [],
+      "full_text": ""
+    },
+    "Destinations and rewards": {
+      "theme": "Destinations and rewards",
+      "sections": [],
+      "full_text": ""
+    },
+    "Discriminating": {
+      "theme": "Discriminating",
+      "sections": [],
+      "full_text": ""
+    },
+    "Elevation beyond the gunas": {
+      "theme": "Elevation beyond the gunas",
+      "sections": [],
+      "full_text": ""
+    },
+    "Feeling shameful and losing hope": {
+      "theme": "Feeling shameful and losing hope",
+      "sections": [],
+      "full_text": ""
+    },
+    "Fighting Demotivation": {
+      "theme": "Fighting Demotivation",
+      "sections": [],
+      "full_text": ""
+    },
+    "Fools and wise": {
+      "theme": "Fools and wise",
+      "sections": [],
+      "full_text": ""
+    },
+    "Grief ignorance and knowledge": {
+      "theme": "Grief ignorance and knowledge",
+      "sections": [],
+      "full_text": ""
+    },
+    "How to combat depression": {
+      "theme": "How to combat depression",
+      "sections": [],
+      "full_text": ""
+    },
+    "How to manage anger": {
+      "theme": "How to manage anger",
+      "sections": [],
+      "full_text": ""
+    },
+    "Intelligence and determination": {
+      "theme": "Intelligence and determination",
+      "sections": [],
+      "full_text": ""
+    },
+    "Krishna is a nice boss": {
+      "theme": "Krishna is a nice boss",
+      "sections": [],
+      "full_text": ""
+    },
+    "Liberation": {
+      "theme": "Liberation",
+      "sections": [],
+      "full_text": ""
+    },
+    "Manifestations of the Supreme Lord": {
+      "theme": "Manifestations of the Supreme Lord",
+      "sections": [],
+      "full_text": ""
+    },
+    "Most confidential knowledge": {
+      "theme": "Most confidential knowledge",
+      "sections": [],
+      "full_text": ""
+    },
+    "Om Tat Sat": {
+      "theme": "Om Tat Sat",
+      "sections": [],
+      "full_text": ""
+    },
+    "Origin of anger": {
+      "theme": "Origin of anger",
+      "sections": [],
+      "full_text": ""
+    },
+    "Overcoming illusion": {
+      "theme": "Overcoming illusion",
+      "sections": [],
+      "full_text": ""
+    },
+    "Pridelessness": {
+      "theme": "Pridelessness",
+      "sections": [],
+      "full_text": ""
+    },
+    "Right conduct in jail": {
+      "theme": "Right conduct in jail",
+      "sections": [],
+      "full_text": ""
+    },
+    "Sacrifices and worship": {
+      "theme": "Sacrifices and worship",
+      "sections": [],
+      "full_text": ""
+    },
+    "Seek instruction when confused": {
+      "theme": "Seek instruction when confused",
+      "sections": [],
+      "full_text": ""
+    },
+    "Surrender to the Supreme Lord": {
+      "theme": "Surrender to the Supreme Lord",
+      "sections": [],
+      "full_text": ""
+    },
+    "The Scape Plan": {
+      "theme": "The Scape Plan",
+      "sections": [],
+      "full_text": ""
+    },
+    "The best yogis": {
+      "theme": "The best yogis",
+      "sections": [],
+      "full_text": ""
+    },
+    "The branches of faith": {
+      "theme": "The branches of faith",
+      "sections": [],
+      "full_text": ""
+    },
+    "The five factors of action": {
+      "theme": "The five factors of action",
+      "sections": [],
+      "full_text": ""
+    },
+    "The lawyer in the heart": {
+      "theme": "The lawyer in the heart",
+      "sections": [],
+      "full_text": ""
+    },
+    "The most secret knowledge": {
+      "theme": "The most secret knowledge",
+      "sections": [],
+      "full_text": ""
+    },
+    "The perfect renunciation": {
+      "theme": "The perfect renunciation",
+      "sections": [],
+      "full_text": ""
+    },
+    "The special favor to a bhakta": {
+      "theme": "The special favor to a bhakta",
+      "sections": [],
+      "full_text": ""
+    },
+    "The three gunas": {
+      "theme": "The three gunas",
+      "sections": [],
+      "full_text": ""
+    },
+    "The three kinds of happiness": {
+      "theme": "The three kinds of happiness",
+      "sections": [],
+      "full_text": ""
+    },
+    "The three types of material existence": {
+      "theme": "The three types of material existence",
+      "sections": [],
+      "full_text": ""
+    },
+    "Two birds on a tree": {
+      "theme": "Two birds on a tree",
+      "sections": [],
+      "full_text": ""
+    },
+    "Value of transcendental knowledge": {
+      "theme": "Value of transcendental knowledge",
+      "sections": [],
+      "full_text": ""
+    },
+    "Words on death of a loved one": {
+      "theme": "Words on death of a loved one",
       "sections": [],
       "full_text": ""
     }
