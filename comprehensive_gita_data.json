@@ -1,0 +1,367 @@
+{
+  "themes": [
+    "Achievements",
+    "Ambition",
+    "Anger",
+    "Boss",
+    "Brothers",
+    "Children",
+    "Competence",
+    "Conduct",
+    "Confusion",
+    "Dealing with envy",
+    "Death",
+    "Death of a loved one",
+    "Decisions",
+    "Demotivated",
+    "Depression",
+    "Determination",
+    "Discovering meaning",
+    "Discriminated",
+    "Existential Crisis",
+    "Expectations",
+    "Family",
+    "Fear",
+    "Feeling shameful",
+    "Forgetfulness",
+    "Friends",
+    "God",
+    "Greed",
+    "Happiness",
+    "Identity",
+    "Illusion",
+    "Knowledge",
+    "Laziness",
+    "Leader",
+    "Life cycle",
+    "Loneliness",
+    "Losing hope",
+    "Love",
+    "Lust",
+    "The Master",
+    "Material World",
+    "Nature",
+    "Practice",
+    "Practicing Forgiveness",
+    "Pride",
+    "Professionals",
+    "Reincarnation",
+    "Relation with God",
+    "Repression",
+    "Respect",
+    "Responsibility",
+    "Seeking peace",
+    "Self Esteem",
+    "Sons",
+    "Sorrow and Regret",
+    "Soul",
+    "Spirituality",
+    "Teacher",
+    "Teams",
+    "Temptation",
+    "Uncontrolled mind"
+  ],
+  "chapters": {},
+  "theme_content": {
+    "Achievements": {
+      "theme": "Achievements",
+      "sections": [],
+      "full_text": ""
+    },
+    "Ambition": {
+      "theme": "Ambition",
+      "sections": [],
+      "full_text": ""
+    },
+    "Anger": {
+      "theme": "Anger",
+      "sections": [],
+      "full_text": ""
+    },
+    "Boss": {
+      "theme": "Boss",
+      "sections": [],
+      "full_text": ""
+    },
+    "Brothers": {
+      "theme": "Brothers",
+      "sections": [],
+      "full_text": ""
+    },
+    "Children": {
+      "theme": "Children",
+      "sections": [],
+      "full_text": ""
+    },
+    "Competence": {
+      "theme": "Competence",
+      "sections": [],
+      "full_text": ""
+    },
+    "Conduct": {
+      "theme": "Conduct",
+      "sections": [],
+      "full_text": ""
+    },
+    "Confusion": {
+      "theme": "Confusion",
+      "sections": [],
+      "full_text": ""
+    },
+    "Dealing with envy": {
+      "theme": "Dealing with envy",
+      "sections": [],
+      "full_text": ""
+    },
+    "Death": {
+      "theme": "Death",
+      "sections": [],
+      "full_text": ""
+    },
+    "Death of a loved one": {
+      "theme": "Death of a loved one",
+      "sections": [],
+      "full_text": ""
+    },
+    "Decisions": {
+      "theme": "Decisions",
+      "sections": [],
+      "full_text": ""
+    },
+    "Demotivated": {
+      "theme": "Demotivated",
+      "sections": [],
+      "full_text": ""
+    },
+    "Depression": {
+      "theme": "Depression",
+      "sections": [],
+      "full_text": ""
+    },
+    "Determination": {
+      "theme": "Determination",
+      "sections": [],
+      "full_text": ""
+    },
+    "Discovering meaning": {
+      "theme": "Discovering meaning",
+      "sections": [],
+      "full_text": ""
+    },
+    "Discriminated": {
+      "theme": "Discriminated",
+      "sections": [],
+      "full_text": ""
+    },
+    "Existential Crisis": {
+      "theme": "Existential Crisis",
+      "sections": [],
+      "full_text": ""
+    },
+    "Expectations": {
+      "theme": "Expectations",
+      "sections": [],
+      "full_text": ""
+    },
+    "Family": {
+      "theme": "Family",
+      "sections": [],
+      "full_text": ""
+    },
+    "Fear": {
+      "theme": "Fear",
+      "sections": [],
+      "full_text": ""
+    },
+    "Feeling shameful": {
+      "theme": "Feeling shameful",
+      "sections": [],
+      "full_text": ""
+    },
+    "Forgetfulness": {
+      "theme": "Forgetfulness",
+      "sections": [],
+      "full_text": ""
+    },
+    "Friends": {
+      "theme": "Friends",
+      "sections": [],
+      "full_text": ""
+    },
+    "God": {
+      "theme": "God",
+      "sections": [],
+      "full_text": ""
+    },
+    "Greed": {
+      "theme": "Greed",
+      "sections": [],
+      "full_text": ""
+    },
+    "Happiness": {
+      "theme": "Happiness",
+      "sections": [],
+      "full_text": ""
+    },
+    "Identity": {
+      "theme": "Identity",
+      "sections": [],
+      "full_text": ""
+    },
+    "Illusion": {
+      "theme": "Illusion",
+      "sections": [],
+      "full_text": ""
+    },
+    "Knowledge": {
+      "theme": "Knowledge",
+      "sections": [],
+      "full_text": ""
+    },
+    "Laziness": {
+      "theme": "Laziness",
+      "sections": [],
+      "full_text": ""
+    },
+    "Leader": {
+      "theme": "Leader",
+      "sections": [],
+      "full_text": ""
+    },
+    "Life cycle": {
+      "theme": "Life cycle",
+      "sections": [],
+      "full_text": ""
+    },
+    "Loneliness": {
+      "theme": "Loneliness",
+      "sections": [],
+      "full_text": ""
+    },
+    "Losing hope": {
+      "theme": "Losing hope",
+      "sections": [],
+      "full_text": ""
+    },
+    "Love": {
+      "theme": "Love",
+      "sections": [],
+      "full_text": ""
+    },
+    "Lust": {
+      "theme": "Lust",
+      "sections": [],
+      "full_text": ""
+    },
+    "The Master": {
+      "theme": "The Master",
+      "sections": [],
+      "full_text": ""
+    },
+    "Material World": {
+      "theme": "Material World",
+      "sections": [],
+      "full_text": ""
+    },
+    "Nature": {
+      "theme": "Nature",
+      "sections": [],
+      "full_text": ""
+    },
+    "Practice": {
+      "theme": "Practice",
+      "sections": [],
+      "full_text": ""
+    },
+    "Practicing Forgiveness": {
+      "theme": "Practicing Forgiveness",
+      "sections": [],
+      "full_text": ""
+    },
+    "Pride": {
+      "theme": "Pride",
+      "sections": [],
+      "full_text": ""
+    },
+    "Professionals": {
+      "theme": "Professionals",
+      "sections": [],
+      "full_text": ""
+    },
+    "Reincarnation": {
+      "theme": "Reincarnation",
+      "sections": [],
+      "full_text": ""
+    },
+    "Relation with God": {
+      "theme": "Relation with God",
+      "sections": [],
+      "full_text": ""
+    },
+    "Repression": {
+      "theme": "Repression",
+      "sections": [],
+      "full_text": ""
+    },
+    "Respect": {
+      "theme": "Respect",
+      "sections": [],
+      "full_text": ""
+    },
+    "Responsibility": {
+      "theme": "Responsibility",
+      "sections": [],
+      "full_text": ""
+    },
+    "Seeking peace": {
+      "theme": "Seeking peace",
+      "sections": [],
+      "full_text": ""
+    },
+    "Self Esteem": {
+      "theme": "Self Esteem",
+      "sections": [],
+      "full_text": ""
+    },
+    "Sons": {
+      "theme": "Sons",
+      "sections": [],
+      "full_text": ""
+    },
+    "Sorrow and Regret": {
+      "theme": "Sorrow and Regret",
+      "sections": [],
+      "full_text": ""
+    },
+    "Soul": {
+      "theme": "Soul",
+      "sections": [],
+      "full_text": ""
+    },
+    "Spirituality": {
+      "theme": "Spirituality",
+      "sections": [],
+      "full_text": ""
+    },
+    "Teacher": {
+      "theme": "Teacher",
+      "sections": [],
+      "full_text": ""
+    },
+    "Teams": {
+      "theme": "Teams",
+      "sections": [],
+      "full_text": ""
+    },
+    "Temptation": {
+      "theme": "Temptation",
+      "sections": [],
+      "full_text": ""
+    },
+    "Uncontrolled mind": {
+      "theme": "Uncontrolled mind",
+      "sections": [],
+      "full_text": ""
+    }
+  }
+}

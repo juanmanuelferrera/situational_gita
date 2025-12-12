@@ -1,0 +1,102 @@
+================================================================================
+  SITUATIONAL GITA ARTICLE GENERATOR
+  Ancient Wisdom for Modern Life
+================================================================================
+
+Thank you for downloading this system!
+
+QUICK START (2 steps):
+======================
+
+1. Run setup:
+   ./setup.sh
+
+2. Choose your method:
+
+   METHOD A - Claude Code (Easiest, Recommended):
+   - Open this folder in Claude Code
+   - Say: "Generate an article about Anger"
+
+   METHOD B - Standalone Scripts:
+   - Run: python3 gita_ui.py
+   - Follow the interactive menu
+
+WHAT'S INCLUDED:
+================
+
+Documentation:
+  - START_HERE.txt .............. This file
+  - QUICK_START.md .............. Fast start guide
+  - COMPLETE_GUIDE.md ........... Comprehensive documentation
+  - README.md ................... System overview
+  - WRITING_STYLE_GUIDE.md ...... Style guidelines
+
+Source:
+  - situational_gita.txt ........ Converted book text
+  - situational_gita.pdf ........ Original PDF (if included)
+
+Scripts:
+  - setup.sh .................... Run this first!
+  - extract_themes.py ........... Extract book content
+  - narrative_strategies.py ..... 12 unique strategies
+  - article_generator.py ........ Main generator
+  - gita_ui.py .................. Interactive UI
+
+Data:
+  - comprehensive_gita_data.json  Pre-extracted content (if included)
+  - articles/ ................... Generated articles go here
+
+FEATURES:
+=========
+
+✓ 60 life themes (Anger, Depression, Fear, etc.)
+✓ 12 unique narrative strategies
+✓ Intelligent theme-to-strategy matching
+✓ AI-powered article generation
+✓ Light of Dharma style compliance
+✓ Hugo-ready markdown output
+
+TWO WAYS TO USE:
+================
+
+1. CLAUDE CODE (Recommended):
+   - No API key needed
+   - No costs
+   - Conversational interface
+   - Same quality
+
+   Usage: Just talk to Claude!
+   "Generate an article about Loneliness"
+
+2. STANDALONE SCRIPTS:
+   - Requires Anthropic API key (costs money)
+   - Good for automation
+   - Batch generation of 100+ articles
+
+   Usage: python3 gita_ui.py
+
+SUPPORT:
+========
+
+Read the documentation files:
+  - QUICK_START.md for fastest path
+  - COMPLETE_GUIDE.md for everything
+
+REQUIREMENTS:
+=============
+
+- Python 3.7+
+- anthropic package (only for standalone mode)
+- Anthropic API key (only for standalone mode)
+- Claude Code (optional, but recommended)
+
+GET STARTED:
+============
+
+Run: ./setup.sh
+
+Then read: QUICK_START.md
+
+Questions? Check COMPLETE_GUIDE.md
+
+================================================================================
