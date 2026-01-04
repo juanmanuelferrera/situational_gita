@@ -206,7 +206,7 @@ ISBN: [TO BE ASSIGNED]
 
 First Edition
 
-Based on translations from \textit{Bhagavad-gītā As It Is} (1972) by A.C. Bhaktivedanta Swami Prabhupāda
+Based on translations from \textit{Bhagavad-gītā As It Is} (1972) by A. C. Bhaktivedanta Swami Prabhupāda
 
 Printed in the United States of America
 \end{flushleft}
@@ -338,13 +338,13 @@ The characters—Marcus, the others you'll meet—aren't real people. But their 
 
 The essence—the anger that snaps, the loneliness that hollows, the confusion that paralyzes—that's all real. That's all true.
 
-And the Gītā's response? That's not only real and true—it's tested across 2,500 years of human experience.
+And the Gītā's response? That's not only real and true—it's tested across 5,000 years of human experience.
 
 #+BEGIN_EXPORT latex
 \section*{A Note on Translation}
 #+END_EXPORT
 
-All verses come from A.C. Bhaktivedanta Swami Prabhupāda's 1972 edition, \textit{Bhagavad-gītā As It Is}. When you see a verse quoted, you're getting Prabhupāda's exact words—carefully preserved, accurately transmitted, philosophically precise yet accessible.
+All verses come from A. C. Bhaktivedanta Swami Prabhupāda's 1972 edition, \textit{Bhagavad-gītā As It Is}. When you see a verse quoted, you're getting Prabhupāda's exact words—carefully preserved, accurately transmitted, philosophically precise yet accessible.
 
 #+BEGIN_EXPORT latex
 \section*{Why This Approach Works}
@@ -391,7 +391,7 @@ Let's begin.
 
 This book would not exist without the grace and guidance of my spiritual lineage.
 
-My deepest gratitude to *His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda*, whose translation of the Bhagavad-gītā—/Bhagavad-gītā As It Is/—forms the foundation of every teaching in this book. His clarity, precision, and unwavering devotion to presenting Kṛṣṇa's words without distortion made this work possible. Every verse quoted, every insight offered, flows from his mercy.
+My deepest gratitude to *His Divine Grace A. C. Bhaktivedanta Swami Prabhupāda*, whose translation of the Bhagavad-gītā—/Bhagavad-gītā As It Is/—forms the foundation of every teaching in this book. His clarity, precision, and unwavering devotion to presenting Kṛṣṇa's words without distortion made this work possible. Every verse quoted, every insight offered, flows from his mercy.
 
 To *Śrīla Prabhupāda's disciples and grand-disciples*, whose teachings, lectures, and personal examples showed me how ancient wisdom transforms modern lives. Your dedication to sharing this knowledge keeps the lineage alive.
 
@@ -16075,7 +16075,7 @@ And you're exactly where you need to be.
 \addcontentsline{toc}{chapter}{The Gītā Verses Referenced}
 #+END_EXPORT
 
-This book draws upon 72 verses from the Bhagavad-gītā, organized here by chapter for your reference. All translations are from /Bhagavad-gītā As It Is/ by A.C. Bhaktivedanta Swami Prabhupāda.
+This book draws upon 72 verses from the Bhagavad-gītā, organized here by chapter for your reference. All translations are from /Bhagavad-gītā As It Is/ by A. C. Bhaktivedanta Swami Prabhupāda.
 
 *Chapter 1: Observing the Armies*
 
@@ -16197,23 +16197,23 @@ To deepen your understanding of the Bhagavad-gītā and its application to daily
 
 *Primary Source:*
 
-/Bhagavad-gītā As It Is/ by A.C. Bhaktivedanta Swami Prabhupāda — The complete translation with commentary that forms the foundation of this book. Essential for understanding the verses in their full context.
+/Bhagavad-gītā As It Is/ by A. C. Bhaktivedanta Swami Prabhupāda — The complete translation with commentary that forms the foundation of this book. Essential for understanding the verses in their full context.
 
 *Complementary Vedic Texts:*
 
-/Śrīmad-Bhāgavatam/ (Bhāgavata Purāṇa) by A.C. Bhaktivedanta Swami Prabhupāda — The natural continuation of the Gītā's teachings, presenting the science of devotion through stories and philosophy.
+/Śrīmad-Bhāgavatam/ (Bhāgavata Purāṇa) by A. C. Bhaktivedanta Swami Prabhupāda — The natural continuation of the Gītā's teachings, presenting the science of devotion through stories and philosophy.
 
-/Caitanya-caritāmṛta/ by Kṛṣṇadāsa Kavirāja Gosvāmī (translated by A.C. Bhaktivedanta Swami Prabhupāda) — The biography and teachings of Śrī Caitanya Mahāprabhu, who demonstrated the Gītā's teachings through His life.
+/Caitanya-caritāmṛta/ by Kṛṣṇadāsa Kavirāja Gosvāmī (translated by A. C. Bhaktivedanta Swami Prabhupāda) — The biography and teachings of Śrī Caitanya Mahāprabhu, who demonstrated the Gītā's teachings through His life.
 
 *On Spiritual Practice:*
 
-/The Nectar of Instruction/ by Śrīla Rūpa Gosvāmī (translated by A.C. Bhaktivedanta Swami Prabhupāda) — Practical guidance on spiritual advancement and the principles of devotional service.
+/The Nectar of Instruction/ by Śrīla Rūpa Gosvāmī (translated by A. C. Bhaktivedanta Swami Prabhupāda) — Practical guidance on spiritual advancement and the principles of devotional service.
 
 /The Journey Home/ by Radhanath Swami — A contemporary account of spiritual seeking that demonstrates the Gītā's relevance in modern times.
 
 *On Understanding the Mind:*
 
-/Raja-Vidya: The King of Knowledge/ by A.C. Bhaktivedanta Swami Prabhupāda — Explores the Gītā's ninth chapter in depth, addressing consciousness and self-realization.
+/Raja-Vidya: The King of Knowledge/ by A. C. Bhaktivedanta Swami Prabhupāda — Explores the Gītā's ninth chapter in depth, addressing consciousness and self-realization.
 
 *Additional Works by the Author:*
 
