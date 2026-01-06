@@ -254,7 +254,7 @@ pip3 install anthropic
 
 **NEW: Complete bestseller book strategy included!**
 
-Create **"Situational Gita: Ancient Solutions to Modern Life Struggles"**
+Create **"The Gita Playbook: Ancient Solutions to Modern Day Struggles"**
 
 - **60 curated topics** for optimal book (from 110 available)
 - **4-part structure** (380-400 pages)

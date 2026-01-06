@@ -1,5 +1,5 @@
-#+TITLE: A Guide to Life's Struggles
-#+SUBTITLE: Ancient Wisdom Through Modern Storytelling
+#+TITLE: The Gita Playbook
+#+SUBTITLE: Ancient Solutions to Modern Day Struggles
 #+Author: Br. Jagannatha Mishra Dasa
 #+DATE: First Edition, 2025
 
@@ -93,7 +93,7 @@
 #+LATEX_HEADER: \fancypagestyle{fancy}{%
 #+LATEX_HEADER:   \fancyhf{}%
 #+LATEX_HEADER:   \fancyfoot[C]{\thepage}%
-#+LATEX_HEADER:   \fancyhead[LE]{\small\textit{Situational Gita}}%
+#+LATEX_HEADER:   \fancyhead[LE]{\small\textit{The Gita Playbook}}%
 #+LATEX_HEADER:   \fancyhead[RO]{\small\textit{\leftmark}}%
 #+LATEX_HEADER:   \renewcommand{\headrulewidth}{0pt}%
 #+LATEX_HEADER:   \renewcommand{\footrulewidth}{0pt}%
@@ -176,11 +176,11 @@
 \centering
 \vspace*{2cm}
 
-{\Huge\bfseries Situational Gita}
+{\Huge\bfseries The Gita Playbook}
 
 \vspace{0.5cm}
 
-{\Large Ancient Solutions to Modern Life Struggles}
+{\Large Ancient Solutions to Modern Day Struggles}
 
 \vspace{2cm}
 
@@ -196,7 +196,7 @@
 \thispagestyle{empty}
 \null\vfill
 \begin{flushleft}
-\textbf{Situational Gita: Ancient Solutions to Modern Life Struggles}
+\textbf{The Gita Playbook: Ancient Solutions to Modern Day Struggles}
 
 Copyright \textcopyright\ 2025 by Br. Jagannatha Mishra Dasa
 
@@ -1209,11 +1209,11 @@ You stop being lonely the moment you help someone else feel less alone.
 
 Six months after writing that 2 AM letter, Elena sits in the same apartment. It's still quiet. But the quiet feels different now.
 
-On her table: a half-finished jigsaw puzzle she's doing with Mrs. Chen from 4B. They meet Tuesday evenings. Discovered a shared love of terrible reality TV.
+On her table: a half-finished jigsaw puzzle she's doing with Mrs. Rodriguez from 4B. They meet Tuesday evenings. Discovered a shared love of terrible reality TV.
 
 On her phone: a text thread with David, the guy from Maya's coffee shop. They bonded over both feeling like outsiders in the city. Now they meet for morning walks before work.
 
-And tonight: She's hosting. Three people. Sarah, who she met at a depression support group. David. Mrs. Chen.
+And tonight: She's hosting. Three people. Sarah, who she met at a depression support group. David. Mrs. Rodriguez.
 
 Not a huge group. Not Instagram-worthy. No epic friend group dynamics.
 
@@ -1664,11 +1664,11 @@ Not to anyone in particular. Just to the dark ceiling of his bedroom, where his 
 
 /Who am I?/
 
-Not "What's my name?" or "What do I do for work?" He knows those answers. Michael Chen. Senior architect. Husband. Father of two. Forty-two years old. Graduate of Cornell. Subscriber to /The New Yorker/. Voter. Runner. Coffee drinker.
+Not "What's my name?" or "What do I do for work?" He knows those answers. Michael Barrett. Senior architect. Husband. Father of two. Forty-two years old. Graduate of Cornell. Subscriber to /The New Yorker/. Voter. Runner. Coffee drinker.
 
 But who is /he/?
 
-The question arrived three months ago, uninvited. He'd been sitting in a partners' meeting, listening to himself present the Anderson project, when suddenly he had the strange sensation of watching someone else speak. The words were coming out of his mouth—professional, competent, exactly right—but it felt like watching an actor play the role of Michael Chen.
+The question arrived three months ago, uninvited. He'd been sitting in a partners' meeting, listening to himself present the Anderson project, when suddenly he had the strange sensation of watching someone else speak. The words were coming out of his mouth—professional, competent, exactly right—but it felt like watching an actor play the role of Michael Barrett.
 
 Since then, the question follows him everywhere.
 
@@ -1800,7 +1800,7 @@ But asking it. And watching what happens.
 
 /Who am I?/
 
-The mind immediately offers answers: "I'm Michael Chen." But he doesn't grab onto that. He just watches it arise. Watches it as if it's someone else's thought.
+The mind immediately offers answers: "I'm Michael Barrett." But he doesn't grab onto that. He just watches it arise. Watches it as if it's someone else's thought.
 
 /I'm an architect./ That answer comes too. He watches it the same way.
 
@@ -5282,17 +5282,17 @@ And that makes all the difference.
 \section*{The Fraud at the Table}
 #+END_EXPORT
 
-Dr. Anita Chen sits in the conference room at MIT, surrounded by eighteen of the brightest minds in quantum computing. The symposium panel. She's been invited as an expert.
+Dr. Anita Kapoor sits in the conference room at MIT, surrounded by eighteen of the brightest minds in quantum computing. The symposium panel. She's been invited as an expert.
 
 That's the word they used in the email: /expert/.
 
-She stares at the agenda with her name listed—"Dr. Anita Chen, Lead Researcher, Quantum Error Correction"—and feels the familiar knot in her stomach.
+She stares at the agenda with her name listed—"Dr. Anita Kapoor, Lead Researcher, Quantum Error Correction"—and feels the familiar knot in her stomach.
 
 They're going to realize. Today's the day they figure out she doesn't belong here.
 
 The moderator is introducing the panel now. Dr. Hoffmann from CERN. Dr. Yakamoto from Tokyo. Dr. Petrov from Moscow. Legends. People whose papers Anita studied as a graduate student.
 
-And then: "Dr. Anita Chen, whose groundbreaking work on topological error correction has revolutionized the field."
+And then: "Dr. Anita Kapoor, whose groundbreaking work on topological error correction has revolutionized the field."
 
 Polite applause.
 
@@ -5306,7 +5306,7 @@ Dr. Hoffmann is speaking now, effortlessly weaving complex concepts into elegant
 
 The moderator turns to her.
 
-"Dr. Chen, your recent paper challenges some fundamental assumptions about decoherence times. Can you elaborate on the implications?"
+"Dr. Kapoor, your recent paper challenges some fundamental assumptions about decoherence times. Can you elaborate on the implications?"
 
 Twenty pairs of eyes turn toward her.
 
@@ -6935,7 +6935,7 @@ The product launch is in three weeks. They're nowhere near ready.
 
 Melissa, the lead designer, sighs. "Still waiting on requirements from product. I sent three emails last week. No response."
 
-Chen, the product manager, looks up sharply. "I responded to two of them. You're the one who keeps changing the design without consulting anyone."
+Marcus Webb, the product manager, looks up sharply. "I responded to two of them. You're the one who keeps changing the design without consulting anyone."
 
 "Because your requirements were vague! I had to make assumptions—"
 
@@ -7013,7 +7013,7 @@ But when they focus on their duty—their function in service to the shared goal
 
 Melissa's duty isn't to be right about design. It's to create an interface that serves users.
 
-Chen's duty isn't to win arguments about requirements. It's to articulate what the product needs to accomplish.
+Marcus's duty isn't to win arguments about requirements. It's to articulate what the product needs to accomplish.
 
 Sanjay's duty isn't to manage personalities. It's to create the conditions for the team to succeed together.
 
@@ -7085,7 +7085,7 @@ Sanjay calls another meeting. But this time, he changes the format.
 
 Melissa goes first, reluctantly. "I'm responsible for creating an interface that users can navigate intuitively."
 
-"Good," Sanjay says. "Chen?"
+"Good," Sanjay says. "Marcus?"
 
 "I'm responsible for defining what the product needs to accomplish and ensuring we're building the right thing."
 
@@ -7099,7 +7099,7 @@ He pauses. "We're not competing. We're interdependent. And when we fight over wh
 
 Silence. Then Melissa says, voice softer now, "I know I've been defensive. I just... I felt like everything was my fault."
 
-"It's not," Chen says. "I've been vague with requirements because I'm scared of committing to the wrong thing. I pushed that uncertainty onto you. That wasn't fair."
+"It's not," Marcus says. "I've been vague with requirements because I'm scared of committing to the wrong thing. I pushed that uncertainty onto you. That wasn't fair."
 
 Priya adds, "And I've been silently resenting both of you instead of speaking up when things didn't make technical sense. That's on me."
 
@@ -7111,7 +7111,7 @@ They try it. That afternoon. The next day. It's clunky at first. People slip bac
 
 But slowly, something changes.
 
-Melissa starts asking Chen for clarification instead of assuming. Chen starts giving feedback earlier instead of after designs are done. Priya starts flagging technical constraints before they become blockers.
+Melissa starts asking Marcus for clarification instead of assuming. Marcus starts giving feedback earlier instead of after designs are done. Priya starts flagging technical constraints before they become blockers.
 
 They're not a perfect team. But they're functioning again.
 
@@ -11345,7 +11345,7 @@ And once you taste it—really taste it—nothing else satisfies the same way.
 
 The child asks this while they're walking home from school. Eight years old. Completely sincere.
 
-Michael freezes.
+Vijay freezes.
 
 He's a scientist. An astrophysicist. He studies the measurable universe—galaxies, black holes, cosmic radiation.
 
@@ -11381,7 +11381,7 @@ So maybe it's time to apply that rigor to the biggest question there is.
 \section*{The Search for Definition}
 #+END_EXPORT
 
-Michael approaches God the way he'd approach any scientific problem.
+Vijay approaches God the way he'd approach any scientific problem.
 
 First: define what you're looking for.
 
@@ -11397,7 +11397,7 @@ The Hindus have millions of gods—or one God with infinite forms—depending on
 
 How do you investigate something no one can agree on?
 
-Michael tries a different approach. Instead of asking what people say about God, he asks: what would God have to be?
+Vijay tries a different approach. Instead of asking what people say about God, he asks: what would God have to be?
 
 If God exists, what properties would God necessarily have?
 
@@ -11415,7 +11415,7 @@ That's... actually a workable definition.
 
 But does anything matching that description exist?
 
-Michael doesn't know. But now, at least, he knows what he's looking for.
+Vijay doesn't know. But now, at least, he knows what he's looking for.
 
 #+BEGIN_EXPORT latex
 \section*{The Gītā Speaks: The Nature of the Divine}
@@ -11455,7 +11455,7 @@ Later, Kṛṣṇa expands:
 
 This isn't the bearded man in the sky. This is consciousness itself. The ground of being. The infinite expressing through the finite.
 
-Michael reads this and something clicks.
+Vijay reads this and something clicks.
 
 This matches what physics is discovering.
 
@@ -11473,7 +11473,7 @@ The unmeasurable reality that makes measurement possible.
 \section*{Living the Teaching: From Concept to Experience}
 #+END_EXPORT
 
-Michael can't prove God exists.
+Vijay can't prove God exists.
 
 But he realizes: that's not the right question.
 
@@ -11499,7 +11499,7 @@ If consciousness is fundamental—if it pervades everything—can he experience 
 \end{practicebox}
 #+END_EXPORT
 
-Michael sits. Closes his eyes. Watches his breath.
+Vijay sits. Closes his eyes. Watches his breath.
 
 At first, just thoughts. Distractions. The usual mental noise.
 
@@ -11511,7 +11511,7 @@ He can't grasp it. Can't hold it. Can't measure it.
 
 But it's there. Undeniably there.
 
-And it's not separate from him. It's what he is. Beneath the thoughts. Beneath the identity. Beneath "Michael."
+And it's not separate from him. It's what he is. Beneath the thoughts. Beneath the identity. Beneath "Vijay."
 
 Pure awareness. Consciousness without content.
 
@@ -11521,7 +11521,7 @@ He doesn't know. But it's closer than anything he's found in any book.
 
 Three months later, his daughter asks again. "Dad, did you ever figure out what God is?"
 
-Michael smiles. "I don't know if I can explain it. But I can show you a practice. A way to look. And you can see for yourself."
+Vijay smiles. "I don't know if I can explain it. But I can show you a practice. A way to look. And you can see for yourself."
 
 "See what?"
 
@@ -11529,7 +11529,7 @@ Michael smiles. "I don't know if I can explain it. But I can show you a practice
 
 She frowns. "Is that God?"
 
-"I think," Michael says carefully, "that's as close as we can get. Not a definition. Not a description. Just... direct experience of what's real. What's always been real. What everything comes from."
+"I think," Vijay says carefully, "that's as close as we can get. Not a definition. Not a description. Just... direct experience of what's real. What's always been real. What everything comes from."
 
 "That's confusing."
 
@@ -11539,7 +11539,7 @@ She frowns. "Is that God?"
 \section*{The Way Forward: The God Beyond Concepts}
 #+END_EXPORT
 
-Michael still doesn't call himself religious.
+Vijay still doesn't call himself religious.
 
 But he meditates daily. Reads the Gītā. Investigates consciousness.
 
@@ -11547,19 +11547,19 @@ Not as belief. As exploration.
 
 A colleague asks, "So you believe in God now?"
 
-Michael thinks about it. "I don't know if 'believe' is the right word. I experience something. Something fundamental. Something infinite. Whether I call it God or consciousness or the ground of being... the name doesn't matter as much as the reality."
+Vijay thinks about it. "I don't know if 'believe' is the right word. I experience something. Something fundamental. Something infinite. Whether I call it God or consciousness or the ground of being... the name doesn't matter as much as the reality."
 
 "But you can't prove it."
 
-"No," Michael admits. "You can't prove consciousness to someone who won't look within. You can't prove God to someone who won't investigate. But you also can't prove love to someone who's never felt it. Some things require direct experience."
+"No," Vijay admits. "You can't prove consciousness to someone who won't look within. You can't prove God to someone who won't investigate. But you also can't prove love to someone who's never felt it. Some things require direct experience."
 
 "So it's subjective?"
 
-"Maybe," Michael says. "Or maybe it's the only thing that's truly objective. Maybe God is what remains when all the subjective experiences fall away. The awareness itself. Infinite. Eternal. The source of everything."
+"Maybe," Vijay says. "Or maybe it's the only thing that's truly objective. Maybe God is what remains when all the subjective experiences fall away. The awareness itself. Infinite. Eternal. The source of everything."
 
 "That sounds like science fiction."
 
-Michael laughs. "It sounds like physics. Consciousness as the fundamental field. Intelligence as the ordering principle. The universe as self-aware. We're just waking up to what mystics have said for millennia."
+Vijay laughs. "It sounds like physics. Consciousness as the fundamental field. Intelligence as the ordering principle. The universe as self-aware. We're just waking up to what mystics have said for millennia."
 
 Because God isn't a hypothesis to accept or reject.
 
@@ -12845,7 +12845,7 @@ March.
 
 Everything begins again.
 
-Dr. Chen watches the cherry blossoms outside her office window and feels the pull.
+Dr. Nakamura watches the cherry blossoms outside her office window and feels the pull.
 
 Energy. Ambition. The drive to *do*.
 
@@ -12861,7 +12861,7 @@ By May, she's running on five hours of sleep and three cups of coffee.
 
 "You're burning out," her partner says gently.
 
-"I'm productive," Dr. Chen counters.
+"I'm productive," Dr. Nakamura counters.
 
 But she knows the truth:
 
@@ -12879,7 +12879,7 @@ The crash comes exactly when it always does.
 
 The grants get rejected. Two long-term patients relapse. The committee work becomes political and draining.
 
-Dr. Chen feels the heaviness descend.
+Dr. Nakamura feels the heaviness descend.
 
 Not quite depression. More like... inertia.
 
@@ -12891,7 +12891,7 @@ At night, she scrolls social media for hours. Can't seem to stop. Can't seem to 
 
 "Maybe you need a vacation," her partner suggests.
 
-But Dr. Chen knows a vacation won't fix this.
+But Dr. Nakamura knows a vacation won't fix this.
 
 Because it's not about circumstances.
 
@@ -12943,7 +12943,7 @@ Not the absence of energy—but energy aligned with wisdom.
 
 Not the absence of rest—but rest that replenishes rather than avoids.
 
-Dr. Chen realizes:
+Dr. Nakamura realizes:
 
 She's been mistaking rajas for health.
 
@@ -13007,7 +13007,7 @@ But more than you think.
 \section*{Living the Teaching: Cultivating Sattva}
 #+END_EXPORT
 
-Dr. Chen doesn't quit her job.
+Dr. Nakamura doesn't quit her job.
 
 Doesn't run away to meditate in the mountains.
 
@@ -13079,7 +13079,7 @@ How to choose—consciously, repeatedly—clarity over confusion.
 
 December.
 
-Dr. Chen sits in her office, watching the first snow fall.
+Dr. Nakamura sits in her office, watching the first snow fall.
 
 She feels calm.
 
@@ -13105,7 +13105,7 @@ Her partner notices the difference.
 
 "You seem different," they say over breakfast.
 
-Dr. Chen considers.
+Dr. Nakamura considers.
 
 "I think I'm learning to work with my nature instead of being worked by it."
 
@@ -14215,11 +14215,11 @@ Completely.
 \section*{Two Kinds}
 #+END_EXPORT
 
-**Rachel and Michael, Year One:**
+**Rachel and Adrian, Year One:**
 
 "I love you."
 
-Michael says it for the first time over dinner.
+Adrian says it for the first time over dinner.
 
 Rachel feels her heart expand.
 
@@ -14249,23 +14249,23 @@ It just *is*.
 \section*{The Promise and the Problem}
 #+END_EXPORT
 
-**Rachel and Michael, Year Three:**
+**Rachel and Adrian, Year Three:**
 
 The fights start small.
 
-Michael works late. Rachel feels abandoned.
+Adrian works late. Rachel feels abandoned.
 
-Rachel wants more closeness. Michael feels smothered.
+Rachel wants more closeness. Adrian feels smothered.
 
 "I thought you loved me," Rachel says after one argument.
 
-"I do," Michael insists.
+"I do," Adrian insists.
 
 But they're both learning:
 
 The love they feel is conditional.
 
-When Michael meets her needs, she loves him.
+When Adrian meets her needs, she loves him.
 
 When Rachel gives him space, he loves her.
 
@@ -14389,7 +14389,7 @@ It simply gives—because that's its nature.
 \section*{Living the Teaching: From Need to Gift}
 #+END_EXPORT
 
-**Rachel and Michael, Year Seven:**
+**Rachel and Adrian, Year Seven:**
 
 They almost divorce.
 
@@ -14405,7 +14405,7 @@ Rachel bristles.
 
 The counselor smiles gently.
 
-"Not 'should.' Can you? Is it possible to love Michael not because he completes you—but just because love is what you're capable of offering?"
+"Not 'should.' Can you? Is it possible to love Adrian not because he completes you—but just because love is what you're capable of offering?"
 
 Rachel goes quiet.
 
@@ -14489,7 +14489,7 @@ Not easy. But possible.
 \section*{The Way Forward: The Liberation}
 #+END_EXPORT
 
-**Rachel and Michael, Year Ten:**
+**Rachel and Adrian, Year Ten:**
 
 They're still together.
 
@@ -14497,17 +14497,17 @@ Not because the relationship is perfect.
 
 But because they've both learned—slowly, imperfectly—to love differently.
 
-Rachel stops demanding that Michael complete her.
+Rachel stops demanding that Adrian complete her.
 
 She builds her own life. Cultivates her own peace.
 
 And from that wholeness, she offers love.
 
-Not because Michael earns it.
+Not because Adrian earns it.
 
 But because she has it to give.
 
-Michael stops treating Rachel's needs as obligations that drain him.
+Adrian stops treating Rachel's needs as obligations that drain him.
 
 He starts seeing her as a soul he's sharing this life with—not a demand machine.
 
@@ -14519,11 +14519,11 @@ Not because conflict disappears—but because love isn't withdrawn during confli
 
 "I'm frustrated with you right now," Rachel says one night.
 
-"I know," Michael replies.
+"I know," Adrian replies.
 
 "But I still love you."
 
-Michael smiles.
+Adrian smiles.
 
 "I know that too."
 
